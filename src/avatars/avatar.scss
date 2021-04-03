@@ -1,5 +1,6 @@
 .avatar {
   display: inline-block;
+  box-sizing: content-box;
   overflow: hidden; // Ensure page layout in Firefox should images fail to load
   line-height: $lh-condensed-ultra;
   vertical-align: middle;
