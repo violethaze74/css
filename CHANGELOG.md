@@ -1,5 +1,21 @@
 # @primer/css
 
+## 19.3.0
+
+### Minor Changes
+
+- [#1876](https://github.com/primer/css/pull/1876) [`bcf447ab`](https://github.com/primer/css/commit/bcf447ab226e6043dd47c1fcc395ba104af866d4) Thanks [@vdepizzol](https://github.com/vdepizzol)! - Add mono font stack to <samp> tag
+
+### Patch Changes
+
+- [#1892](https://github.com/primer/css/pull/1892) [`55bd498b`](https://github.com/primer/css/commit/55bd498b7357e86659ac574f0f745f7b420fb6d3) Thanks [@langermank](https://github.com/langermank)! - Patch: Fix ActionList--divided for label with inline description scenarios
+
+* [#1890](https://github.com/primer/css/pull/1890) [`74d0438b`](https://github.com/primer/css/commit/74d0438bd4dbaed447b553c5d3c8b945da282836) Thanks [@andrialexandrou](https://github.com/andrialexandrou)! - Adds --color-accent-emphasis and --color-fg-on-emphasis rules for Windows High Contrast Mode
+
+- [#1882](https://github.com/primer/css/pull/1882) [`4a06aba1`](https://github.com/primer/css/commit/4a06aba1d3f80bcc228ff4360d0e02d5ace158ff) Thanks [@tqwewe](https://github.com/tqwewe)! - Fix layout gutter none styles
+
+* [#1894](https://github.com/primer/css/pull/1894) [`d1adf595`](https://github.com/primer/css/commit/d1adf595308afb97f83c5ca172222944189a5961) Thanks [@simurai](https://github.com/simurai)! - Make `pagination` responsive by default
+
 ## 19.2.0
 
 ### Minor Changes
