@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: chrnorm/deployment-action@v1.2.0
+      - uses: chrnorm/deployment-action@v2.0.5
         name: Create GitHub deployment
         id: deployment
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           environment: Preview
-      - uses: chrnorm/deployment-action@v1.2.0
+      - uses: chrnorm/deployment-action@v2.0.5
         name: Create GitHub deployment for storybook
         id: storybook
         with:
